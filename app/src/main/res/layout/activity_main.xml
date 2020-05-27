@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@+id/taxio"
-        android:text="관우가희하은주혜최고"
+        android:text="관우가희하은주혜짱"
         app:layout_constraintLeft_toLeftOf="parent"
         />
 
